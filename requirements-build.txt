@@ -1,0 +1,3 @@
+# Dependencias SOLO para construir ejecutables.
+# La app en sí usa únicamente la librería estándar de Python.
+pyinstaller>=6.0

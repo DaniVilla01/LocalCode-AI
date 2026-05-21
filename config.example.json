@@ -1,0 +1,12 @@
+{
+  "provider": "ollama",
+  "model": "qwen2.5-coder:7b",
+  "ollama_url": "http://127.0.0.1:11434",
+  "api_base": "http://127.0.0.1:1234/v1",
+  "api_key": "not-needed",
+  "root": "/ruta/a/tu/proyecto",
+  "auto_yes": false,
+  "backups": true,
+  "max_tool_steps": 16,
+  "max_history_chars": 80000
+}

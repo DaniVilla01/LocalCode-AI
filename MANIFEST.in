@@ -1,0 +1,8 @@
+include README.md
+include LICENSE
+include config.example.json
+include requirements-build.txt
+include build_windows.bat
+include build_unix.sh
+include local-code-agent.spec
+recursive-include tests *.py
